@@ -1,0 +1,96 @@
+body{
+    background-color: #E2F6CA;
+    font-size: 29px;
+    text-shadow:-1px -1px , 1px 1px
+    
+  }
+  
+
+
+.jpgoflogo{
+
+
+ 
+    background-color: #98FB98;
+    height: 3145px;
+    text-align: center;
+    text-shadow:-1px -1px , 1px 1px;
+    text-decoration:none;
+    border-radius:45px;
+    border: solid 30px #7FFFD4;
+    padding: 40px;
+  
+    height: 350px;
+}
+
+   
+ 
+
+    .welcome{
+      background-color: oldlace;
+      text-decoration:none;
+      text-align: center;
+     color:#D2691E;
+    
+      border: dotted 5px red;
+      margin: 0;
+        display: inline-block;
+        left: 50px;
+
+
+    }
+  
+
+    .scmajor{
+      justify-content: center;
+      display: inline-flex;
+
+      border: dotted 5px yellowgreen;
+
+      text-align: center;
+    
+       
+        display: inline-block;
+       
+        margin: 0;
+        padding: 0;
+       margin-left:  8rem;
+      margin-top: 4rem;
+      margin-right: 8rem;
+
+  }
+  
+
+  .namebachelorof{
+    text-align: center;
+    margin-left: 50px;
+    justify-content: center;
+  }
+  
+   
+  .csmajor2{
+    justify-content: center;
+
+    border: dashed 5px #FFA07A;
+        padding: 5px;
+        display: inline-block;
+        color: #CD5C5C;
+  }
+
+  .calendar{
+    justify-content: center;
+    border: dashed 5px #00FFFF;
+        padding: 8px;
+        display: inline-block;
+        color: #CD5C5C;
+  }
+
+
+  .add{
+    justify-content: center;
+    border: solid 8px #00FF7F;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+
+  }
